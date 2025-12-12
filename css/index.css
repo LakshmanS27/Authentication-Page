@@ -1,0 +1,43 @@
+/* color for background */
+body {
+  background-color: #bf70ec;
+}
+
+/* Login button color */
+.btn-primary {
+  background-color: #8b20c9 !important;
+}
+
+/* Login button alingment */
+.login {
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+
+.icon-container {
+  text-align: center;
+  margin-top: 3%;
+
+}
+
+i {
+  font-size: 30px;
+}
+
+.fa-google {
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.fa-facebook {
+  color: #0d22bf;
+}
+
+.signup {
+  margin-top: 2%;
+  text-align: center
+}
